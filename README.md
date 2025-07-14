@@ -1,6 +1,6 @@
 # Image Processing Assessment Solution
 
-This repository contains solutions for an image processing assessment using YOLO object detection. The project is implemented in a Jupyter Notebook ([image_processing.ipynb](image_processing.ipynb)) and covers two main tasks:
+This repository contains solutions for an image processing assessment using YOLO object detection. The project is implemented in a Jupyter Notebook ([image_processing.ipynb](image_processing.ipynb)). The notebook provides detaled explaination of each step in comments and covers two main tasks:
 
 - **Task 1:** Detection Summary Engine  
   Processes a video to detect objects every 5th frame, saves annotated frames, and generates detection summaries.
