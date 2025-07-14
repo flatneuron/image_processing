@@ -17,11 +17,9 @@ You can run this notebook directly in Google Colab:
 
 ---
 
-## Getting Started
+📁 **Input Videos and Final Results**
 
-### 1. Clone the Repository
+You can find the input videos and final output results in the following Google Drive folder:
 
-```sh
-git clone https://github.com/flatneuron/image_processing.git
-cd image_processing
-```
+👉 [Click here to open the Google Drive folder](https://drive.google.com/your-folder-link)
+
