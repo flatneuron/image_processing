@@ -21,5 +21,5 @@ You can run this notebook directly in Google Colab:
 
 You can find the input videos and final output results in the following Google Drive folder:
 
-👉 [Click here to open the Google Drive folder](https://drive.google.com/your-folder-link)
+👉 [Click here to open the Google Drive folder](https://drive.google.com/drive/folders/1LCjRO_N-wBaYgkWFNXsgRLrQDsAmR4CE?usp=drive_link)
 
